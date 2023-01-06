@@ -1,4 +1,8 @@
-#Python patchwork coursework
+# Python patchwork coursework
+
+![](screenshot.png)
+
+To get this run now (as of 2023) remove all the `input` stuff in `final.py`
 
 Python coursework for Year 1 Introduction to Programming (INTPROG). Known issues:
 
